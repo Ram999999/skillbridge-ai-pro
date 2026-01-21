@@ -1,4 +1,4 @@
-# SkillBridge AI Pro - Microsoft Imagine Cup 2025
+# SkillBridge AI Pro -
 
 ## 🎯 Project Overview
 
@@ -71,7 +71,7 @@ AZURE_LANGUAGE_API_KEY=your-api-key
 
 **Note:** The system works perfectly even without Azure credentials using fallback responses!
 
-## 📊 Imagine Cup Criteria Assessment
+## 📊 
 
 ### Innovation: 9/10 ⭐⭐⭐⭐⭐
 - First-of-its-kind AI-powered career readiness platform
@@ -198,7 +198,7 @@ skillbridge-ai-pro/
 
 ## 🏆 Final Verdict
 
-**Status: ✅ READY FOR MICROSOFT IMAGINE CUP 2025**
+**Status: ✅ READY**
 
 The project demonstrates:
 - Strong technical implementation
@@ -207,5 +207,5 @@ The project demonstrates:
 - Professional presentation
 - Complete feature set
 
-**Good luck with your Imagine Cup submission! 🚀**
+**Good luck with your submission! 🚀**
 
